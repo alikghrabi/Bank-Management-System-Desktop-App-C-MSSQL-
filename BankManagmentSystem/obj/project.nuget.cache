@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "S1/fDYlh7o9y1PHtqHjuJJbxl1GY/T3bQMqiYY36BBifLd8TBdxasDGWLuz2kaw7CM8ju2PZrgAnDRytdNb3DA==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\alikg\\Desktop\\IsraaAlzein_AliGhrabi\\BankManagmentSystem\\BankManagmentSystem\\BankManagmentSystem.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Users\\alikg\\Desktop\\Asp.net\\OfflineNugetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Windows.Compatibility"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Users\\alikg\\Desktop\\Asp.net\\OfflineNugetPackages' doesn't exist.",
+      "libraryId": "System.Data.SqlClient"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Users\\alikg\\Desktop\\Asp.net\\OfflineNugetPackages' doesn't exist.",
+      "libraryId": "System.Reactive.Windows.Forms"
+    }
+  ]
+}
